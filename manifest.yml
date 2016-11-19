@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: sebastiencar
-  host: sebastiencar
+  name: sebastienkimcar
+  host: sebastienkimcar
   disk_quota: 1024M
